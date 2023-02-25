@@ -1,0 +1,201 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url("https://d3ui957tjb5bqd.cloudfront.net/uploads/2020/03/30053525/1530x900-horizontal-2021-04-30T110441.108.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+  }
+  
+  header {
+    background-color: rgb(4 6 8 / 94%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 1em;
+    position: relative;
+    height: 280px;
+    width: 120%;
+
+    color: white;
+    opacity: 95%;
+  }
+
+  header:hover{
+    opacity: 100%;
+  }
+  h1{
+    margin: 0px 0px;
+    padding: 0px 0px;
+    position: relative;
+    top: -210px;
+    left: -270px;
+  }
+
+  header p {
+    margin: 0px 0px;
+    padding: 0px 0px;
+    position: relative;
+    top: -210px;
+    left: -250px;
+  }
+
+  .down{
+    
+    position: relative;
+    top: -210px;
+    left: -160px;
+    
+  }
+
+  
+  h1,header p {
+    margin: 0px 0px;
+    padding: 0px 0px;
+    position: relative;
+    top: -210px;
+    left: -270px;
+    
+  }
+  
+  img {
+    position: relative;
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    margin: 1em;
+    margin-left: -65em;
+}
+  
+  section {
+    margin: 1em;
+  }
+  
+  h2 {
+    margin: 0;
+  }
+  
+  li {
+    margin: 1em 0;
+  }
+
+  
+.education{
+  position: relative;
+  
+  border-radius: 8px;
+  border-color: black;
+  color: rgb(248, 219, 219);
+ 
+  padding: 15px 20px;
+  
+
+}
+
+.education ul{
+    list-style: none;
+    border: 2px solid gray;
+    width: 747px;
+    border-radius: 25px;
+    margin-left: 4px;
+    padding: 25px 27px;
+    background-color: rgb(31 37 42);
+    font-size: 17px;
+    position: relative;
+    top: 0px;
+    left: 643px;
+    opacity: 75%;
+
+
+}
+.skills{
+  position: relative;
+  
+  border-color: black;
+  color: rgb(248, 219, 219);
+  border-radius: 8px;
+  padding: 15px 30px;
+
+}
+
+.skills ul{
+    list-style: none;
+    border: 2px solid gray;
+    width: 747px;
+    border-radius: 25px;
+    margin-left: 4px;
+    font-size: 17px;
+    padding: 34px 1px;
+    background-color: rgb(31 37 42);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    opacity: 75%;
+
+}
+
+.skills li{
+    padding: 26px 345px;
+    margin: -10px 0px;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    font-size: 18px;
+}
+.project{
+  position: relative;
+  
+  border-color: black;
+  color: rgb(248, 219, 219);;
+ 
+  border-radius: 8px;
+  padding: 15px 30px;
+  
+
+}
+
+.project ul{
+  list-style: none;
+  border: 2px solid gray;
+  width: 747px;
+  background-color: rgb(31 37 42);
+  border-radius: 25px;
+  margin-left: 4px;
+  padding: 25px 27px;
+  font-size: 17px;
+  position: relative;
+  top: 0px;
+    left: 643px;
+    opacity: 75%;
+
+}
+
+footer{
+  background-color: #04070c;
+  color: aliceblue;
+  padding:5px 0px;
+  opacity: 85%;
+  width: 120%;
+}
+
+.left{
+    position: relative;
+    top: 222px;
+    left: 1038px;
+    color: aliceblue;
+    font-size: 69px;
+    display: inline-block;
+    text-shadow: 5px 6px 10px black;
+}
+
+.right{
+    position: relative;
+    top: 222px;
+    left: 113px;
+    color: #04070c;
+    font-size: 84px;
+    display: inline-block;
+    color: aliceblue;
+    text-shadow: 5px 6px 10px black;
+
+}
